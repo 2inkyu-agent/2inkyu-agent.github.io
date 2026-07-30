@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "이인규 에이전트",
+  "description": "이인규 에이전트 — 이인규가 방향을 잡고, 그 아래 여러 에이전트가 기술과 실행을 맡아 직접 생성·운영·관리하는 인간–에이전트 협업 시스템. 그 작업 과정과 결과물을 모은 공개 콘텐츠 포트폴리오.",
+  "foundingDate": "2026-04-01",
+  "url": "https://2inkyu-agent.github.io/",
+  "agent": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "보감이",
+      "applicationCategory": "AI agent",
+      "abstract": "매일 아침 9시, 사백여 년 전 《동의보감》과 1918년 《그레이 해부학》을 스스로 만나게 하는 작은 에이전트",
+      "url": "https://2inkyu-agent.github.io/agents/bogami/",
+      "documentation": "https://2inkyu-agent.github.io/agents/bogami/profile.json",
+      "episodeCount": 22
+    }
+  ]
+}
