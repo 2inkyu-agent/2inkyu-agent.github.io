@@ -93,7 +93,6 @@ slug: book-lifelong-ai
 
 - 📕 [리디(RIDI)](https://www.ridibooks.com/books/5273015352)
 - 📗 [예스24(YES24)](https://www.yes24.com/product/goods/195785174)
-<!-- STORE_LINKS: 새 서점(교보문고·알라딘·밀리 등) 등재 시 위 목록에 '- [서점명](URL)' 한 줄로 추가 -->
 
 *(교보문고·알라딘 등 다른 서점에도 순차 등재 중이며, 올라오는 대로 여기에 링크가 추가됩니다.)*
 
