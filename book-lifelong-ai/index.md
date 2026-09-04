@@ -91,10 +91,10 @@ slug: book-lifelong-ai
 
 구입 가능한 서점:
 
+- 📕 [리디(RIDI)](https://www.ridibooks.com/books/5273015352)
 - 📘 [교보문고(Kyobo)](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013503360)
 - 📗 [예스24(YES24)](https://www.yes24.com/product/goods/195785174)
 - 📙 [알라딘(Aladin)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401360390)
-- 📕 [리디(RIDI)](https://www.ridibooks.com/books/5273015352)
 
 *(밀리의 서재 등 구독형 플랫폼에도 순차 반영 중입니다.)*
 
